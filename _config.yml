@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : # " "
+title                    : "G. Jaykrishnan"
 title_separator          : # " "
 name                     : &name "G. Jaykrishnan"
 description              : &description "My personal website"
