@@ -24,9 +24,9 @@ author:
   avatar           : "profile_new.png"
   name             : "G. Jaykrishnan"
   pronouns         : "he/him"  
-  bio              : "A Combinatorial Optimization researcher"
-  location         : "Hiafa, Israel / Kerala, India"
-  employer         : "The Technion"
+  bio              : "Combinatorial Optimization researcher"
+  location         : "Hiafa,Israel / Kerala,India"
+  employer         : "The Technion, Haifa"
   uri              : # URL
   email            : "jaykrishnan.gp@gmail.com" 
 
