@@ -1,5 +1,6 @@
 ---
-title: Publication list and files
+title: Publication list
+draft: "true"
 ---
 
 
