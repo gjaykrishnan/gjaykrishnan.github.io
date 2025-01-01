@@ -6,18 +6,22 @@ title: Resume
 
 ## Doctor of Philosphy in Combinatorial Optimization
 The Technion -- Israel Institute of Technology, Israel
+
 July 2021 -- December 2024
 
 ## Master of Science in Operations Research and Optimization
 The Technion -- Israel Institute of Technology, Israel
+
 March 2019 -- July 2021
 
 ## Master of Technology in Industrial Engineering and Management
 National Institute of Technology, Tiruchirappalli, India
+
 June 2013 -- May 2015
 
 ## Bachelor of Technology in Mechanical Engineering
 University of Kerala, India
+
 May 2008 -- July 2012
 # Professional Experience
 
@@ -32,21 +36,27 @@ May 2008 -- July 2012
   Developed a deep learning model pipeline adhering to MLOps best practices for generating piano performance frames. Utilized Google Cloud's Vertex AI for model training and Docker for containerization. Employed Google Compute Engine and Cloud Storage for efficient deployment and data management. Established a CI/CD pipeline with GitHub Actions to automate model building and deployment, ensuring seamless integration and delivery. }
 ## Research in Combinatorial Optimization
 *Advisor: Prof. Asaf Levin, Faculty of Decision and Data Sciences*
+
 *MSc and PhD*
 - Developed Approximation schemes (EPTASs and APTASs) for bin packing and scheduling subjected to cardinality constraints and variants of it.
 ## Research Assistant
 *Advisor: Prof. Avi Ostfeld, Faculty of Civil Engineering*
+
 *September 2020 - September 2024*
 - Formulated linear and convex programs for water quality analysis, addressing both deterministic and uncertain scenarios. Employed Robust optimization techniques to mitigate uncertainty in program formulations.
 ## EpyT-C
 *Python* 
+
 *November 2023 -- Present*
 - Currently engaged in the development of an open-source python package for water quality modeling, slated for publication in a paper for the Journal of Open Source Software.
 # Technical Skills
 
 ## Languages
+
 Python, C, LaTeX
 ## Libraries
+
 CVXPY, CVXOPT, PyTorch, PyG, DGL, PyTorch Lightning, Hydra
-# MLOps
+## MLOps
+
 Git, DVC, GitHub Actions, Docker, Google Cloud Platform, CI/CD
