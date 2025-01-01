@@ -3,7 +3,7 @@ title: Welcome to my website
 ---
 ## About
 
-I am an about-to-graduate PhD student from the Technion — Israel Institute of Technology, specializing in Combinatorial Optimization. My long-term goal is to research and teach Theoretical Computer Science.
+I am a PhD student from the Technion — Israel Institute of Technology, specializing in Combinatorial Optimization. I just finished my defence. 
 
 My advisor at the Technion is [Prof. Asaf Levin](https://dds.technion.ac.il/academicstaff/asaf-levin/). Together, we developed Approximation schemes for scheduling and bin packing with cardinality constraints and variants of this problem. Refer to my [Google Scholar](https://scholar.google.com/citations?user=wVidwjEAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/299/1660) profiles for a complete list of my publications.
 
