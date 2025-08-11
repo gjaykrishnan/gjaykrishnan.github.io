@@ -11,5 +11,3 @@ During my PhD, I was also a research assistant under [Prof. Avi Ostfeld](https:/
 ## Contact
 
 You can reach me at **jaykrishnan.gp at gmail dot com**.
-
-
